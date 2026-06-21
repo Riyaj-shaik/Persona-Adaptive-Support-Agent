@@ -1,0 +1,103 @@
+BILLING POLICY AND REFUND PROCEDURES
+=====================================
+
+Last Updated: January 2025
+
+## Subscription Plans and Pricing
+
+### Basic Plan - $29/month
+- Up to 60 API requests per minute
+- 10 GB data storage
+- Email support (48-hour response time)
+- Access to core API endpoints
+
+### Pro Plan - $99/month
+- Up to 300 API requests per minute
+- 100 GB data storage
+- Priority email support (12-hour response time)
+- Access to all API endpoints including beta features
+- Advanced analytics dashboard
+
+### Enterprise Plan - Custom Pricing
+- Unlimited API requests (custom SLA)
+- Unlimited data storage
+- 24/7 dedicated support with account manager
+- Custom integrations and onboarding
+- SLA guarantees with uptime credits
+
+---
+
+## Payment Methods
+
+We accept the following payment methods:
+- Visa, Mastercard, American Express, and Discover credit cards
+- PayPal
+- ACH bank transfer (Enterprise only)
+- Wire transfer (Enterprise, annual billing only)
+
+All payments are processed securely through Stripe. We do not store credit card numbers on our servers.
+
+---
+
+## Billing Cycles
+
+- Monthly plans are billed on the same day each month (anniversary date).
+- Annual plans are billed once per year at a 20% discount.
+- Invoices are emailed automatically to the account's registered billing email address.
+- You can view and download all past invoices in **Settings > Billing > Invoice History**.
+
+---
+
+## Duplicate Charges
+
+If you notice duplicate charges on your billing statement:
+1. Log into your account and go to **Settings > Billing > Transaction History**.
+2. Compare the transaction dates and amounts.
+3. Duplicate charges are typically caused by payment retry events or plan upgrade timing.
+4. Contact support at billing@support.com with:
+   - Your account email
+   - The duplicate transaction IDs
+   - The date(s) of the charges
+5. Our billing team will investigate within 2 business days and issue a refund if confirmed.
+
+---
+
+## Refund Policy
+
+### Eligibility for Refunds
+- Refunds are available within 14 days of the charge date for monthly subscriptions.
+- Annual subscription refunds are prorated based on unused months.
+- Refunds are NOT issued for partial months, API usage overages, or add-on services already consumed.
+
+### How to Request a Refund
+1. Email billing@support.com with subject line: "Refund Request - [Your Account ID]"
+2. Include the transaction ID and reason for the refund request.
+3. Refund requests are reviewed within 3-5 business days.
+4. Approved refunds are credited back to the original payment method within 5-10 business days.
+
+### Automatic Refund Triggers
+The following situations result in automatic refunds without requiring a request:
+- Service outages exceeding 4 hours in a billing period (credit applied)
+- Billing errors caused by platform system issues
+- Cancellations within the 3-day trial period
+
+---
+
+## Cancellation Policy
+
+- Cancel your subscription anytime from **Settings > Billing > Cancel Plan**.
+- Access continues until the end of the current billing period.
+- No refunds are issued for the remaining days after cancellation unless within the 14-day refund window.
+- Data is retained for 30 days post-cancellation before permanent deletion.
+
+---
+
+## Billing Disputes
+
+For formal billing disputes:
+- All billing disputes must be submitted within 60 days of the charge date.
+- Disputes submitted after 60 days may not be eligible for review.
+- Enterprise customers have a dedicated billing representative for dispute resolution.
+- Estimated resolution time for billing disputes: 5-10 business days.
+
+Contact billing support: billing@support.com | Phone: 1-800-555-0199 (Mon-Fri, 9AM-6PM EST)
